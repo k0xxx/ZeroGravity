@@ -1,0 +1,9 @@
+D:\projects\zero_gravity_moover\zero_gravity_moover\bin\Release\zero_gravity_moover.exe.config
+D:\projects\zero_gravity_moover\zero_gravity_moover\bin\Release\zero_gravity_moover.exe
+D:\projects\zero_gravity_moover\zero_gravity_moover\bin\Release\zero_gravity_moover.pdb
+D:\projects\zero_gravity_moover\zero_gravity_moover\obj\Release\zero_gravity_moover.csprojResolveAssemblyReference.cache
+D:\projects\zero_gravity_moover\zero_gravity_moover\obj\Release\zero_gravity_moover.MainPage.resources
+D:\projects\zero_gravity_moover\zero_gravity_moover\obj\Release\zero_gravity_moover.Properties.Resources.resources
+D:\projects\zero_gravity_moover\zero_gravity_moover\obj\Release\zero_gravity_moover.csproj.GenerateResource.Cache
+D:\projects\zero_gravity_moover\zero_gravity_moover\obj\Release\zero_gravity_moover.exe
+D:\projects\zero_gravity_moover\zero_gravity_moover\obj\Release\zero_gravity_moover.pdb
